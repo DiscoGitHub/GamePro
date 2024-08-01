@@ -8,11 +8,11 @@ public class Main {
 
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
-        frame.setSize(800, 600);
+        frame.setSize(1000, 700);
 
         JLabel label = new JLabel("jay is my pookie", SwingConstants.CENTER);
 
-        label.setFont(new Font("Arial", Font.PLAIN, 24));
+        label.setFont(new Font("Arial", Font.PLAIN, 50));
 
         frame.add(label);
 
