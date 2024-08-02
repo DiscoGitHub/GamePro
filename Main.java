@@ -17,5 +17,7 @@ public class Main {
         frame.add(label);
 
         frame.setVisible(true);
+
+        //Jay just so you know scraper.java is a function and you can use it to scrape websites for their html
     }
 }
