@@ -4,7 +4,7 @@ import java.awt.Font;
 public class Main {
 
     public static void main(String[] args) {
-        JFrame frame = new JFrame("GBrowserBeta");
+        JFrame frame = new JFrame("GBrowser");
 
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
